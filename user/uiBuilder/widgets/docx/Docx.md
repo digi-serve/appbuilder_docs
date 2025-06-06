@@ -83,7 +83,7 @@ Here is an example of the most complicated docx report at time of writing.
 It is not recommended that you build something similar, it is much better to use data collections here: 
 ![](files/widget.png)
 
-[Report:](files/#1การประยุกต์ใช้เบื้องต้นของบ้านสารรักไทย.docx) <a href="https://github.com/digi-serve/appbuilder_docs/raw/master/user/uiBuilder/widgets/docx/files/%231%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%81%E0%B8%95%E0%B9%8C%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%97%E0%B8%A2.docx" target="_blank" download>Click here to download</a>
+[Report:](files/#1การประยุกต์ใช้เบื้องต้นของบ้านสารรักไทย.docx) <a href="https://github.com/CruGlobal/appbuilder_docs/raw/master/user/uiBuilder/widgets/docx/files/%231%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%81%E0%B8%95%E0%B9%8C%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%97%E0%B8%A2.docx" target="_blank" download>Click here to download</a>
 
 
 This is the query the report is based on:

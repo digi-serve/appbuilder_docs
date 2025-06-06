@@ -54,7 +54,7 @@ To find this value: run ```docker service ls``` and look for the XXX_web service
 1. To add an application:
 1. Open ABDesigner and Upload the app_CARS.json definitions.
 
--- For Officially tested version: get the definitions from https://github.com/digi-serve/cars_app/blob/master/test_import/module.json
+-- For Officially tested version: get the definitions from https://github.com/CruGlobal/cars_app/blob/master/test_import/module.json
 
 ## add users
 

@@ -3,7 +3,7 @@ title: Continuous Integration E2E Test Runs
 category: test
 ---
 
-{% include notification.html message="Out of date. See [ab-install-action](https://github.com/digi-serve/ab-install-action)" %}
+{% include notification.html message="Out of date. See [ab-install-action](https://github.com/CruGlobal/ab-install-action)" %}
 
 GitHub Actions can be used to automatically run Cypress end to end tests. As an overview we need to:
 
@@ -33,7 +33,7 @@ First, we need to install AppBuilder. A production install is recommended. We ca
 
 ```yml
 name: Install AppBuilder
-run: npx digi-serve/ab-cli install ab
+run: npx CruGlobal/ab-cli install ab
 ```
 
 Next, checkout the current repo into the appropriate directory using [`actions/checkout@v2`](https://github.com/actions/checkout).

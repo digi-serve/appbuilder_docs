@@ -66,10 +66,10 @@ See [nvm-windows](https://github.com/coreybutler/nvm-windows)
 
 ## Install the AppBuilder
 
-Install our [ab-cli](https://github.com/digi-serve/ab-cli) tool. One of it's functions is to install the AppBuilder, optionally with the developemnet environment. Use the following command:
+Install our [ab-cli](https://github.com/CruGlobal/ab-cli) tool. One of it's functions is to install the AppBuilder, optionally with the developemnet environment. Use the following command:
 {% include codeHeader.html %}
 ```bash
-npm install -g digi-serve/ab-cli
+npm install -g CruGlobal/ab-cli
 ```
 
 Then, run the installer. Specify your own target directory in place of `{install_dir}`, for example:

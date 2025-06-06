@@ -16,7 +16,7 @@ jobs:
 
       - name: Set environment variables
         run: |
-          echo "ORG=digi-serve" >> $GITHUB_ENV
+          echo "ORG=CruGlobal" >> $GITHUB_ENV
           echo "PROJECT_NUMBER=2" >> $GITHUB_ENV
           echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 

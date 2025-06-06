@@ -76,7 +76,7 @@ now just because they can open the CARs page, doesn't mean they're allowed to se
 
 Follow the "assign a role" directions on this page to set up your users. We should have set up "project worker" and "social worker" roles for your install already :)
 
-https://digi-serve.github.io/appbuilder_docs/user/permissions/roles/Roles.html#assign-a-role-1
+https://CruGlobal.github.io/appbuilder_docs/user/permissions/roles/Roles.html#assign-a-role-1
 
 ### add Staff record
 go to this page on the CARs frontend

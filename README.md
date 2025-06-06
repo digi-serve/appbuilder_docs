@@ -1,6 +1,6 @@
 # AppBuilder Docs
-Documentation for [digi-serve/app_builder](https://github.com/digi-serve/app_builder).
+Documentation for [CruGlobal/app_builder](https://github.com/CruGlobal/app_builder).
 
 This includes both user (creating apps) and developer docs.
 
-**View on GitHub Pages:** https://digi-serve.github.io/appbuilder_docs/
+**View on GitHub Pages:** https://CruGlobal.github.io/appbuilder_docs/
