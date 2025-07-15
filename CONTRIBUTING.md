@@ -73,7 +73,7 @@ To add a category simply add a markdown file `myCategory.md` with the following 
 title: My category
 description: An optional description of my category
 is-category: myCategory
-layout: index
+layout: page
 category: parentCategory
 icon: fa-icon (optional)
 ```
@@ -95,9 +95,17 @@ This will create an index page linked from the parent category which list any pa
    ```
   {% include notification.html message="This is the message for the notification" %}
 
+## Tips for Using This Documentation Site
+
+- **Use the Sidebar:** Navigate topics and subtopics using the sidebar for quick access to all documentation sections.
+- **Search:** Use the search bar to find specific topics, keywords, or guides instantly.
+- **Breadcrumbs:** Follow the breadcrumbs at the top of each page to understand where you are and easily return to parent topics.
+- **Internal Links:** Click on links within the docs to jump to related content and deepen your understanding.
+- **Images & Examples:** Look for images and code snippets throughout the docs for visual guidance and practical examples.
+- **Contribute:** If you spot errors or have suggestions, check out the contributing guidelines above to help improve the documentation for everyone.
+
+---
+
 ## Run Site Locally
 Jekyll requires ruby.
-```bash
-  bundle install
-  bundle exec jekyll serve
 ```

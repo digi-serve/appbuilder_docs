@@ -1,9 +1,0 @@
-{% for example in include.examples %}
-   {% if example.caption %}
-   <h4> {{ example.caption | strip_html }} </h4>
-   {% endif %}
-   {% capture codeblock %}```javascript
-{{ example.code }}
-   ```{% endcapture %}
-   {{ codeblock | markdownify }}
-{% endfor %}
